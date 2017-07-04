@@ -19,7 +19,6 @@ addSbtPlugin("com.typesafe.sbt" % "sbt-ghpages" % "0.5.4")
 addSbtPlugin("com.typesafe" % "sbt-mima-plugin" % "0.1.8")
 addSbtPlugin("pl.project13.scala" % "sbt-jmh" % "0.2.16")
 addSbtPlugin("com.eed3si9n" % "sbt-buildinfo" % "0.6.1")
-addSbtPlugin("org.scala-js" % "sbt-scalajs" % "0.6.13")
 
 licenses += ("Three-clause BSD-style", url("https://github.com/scodec/scodec-build/blob/master/LICENSE"))
 
